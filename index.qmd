@@ -1,7 +1,21 @@
 ---
-title: "mdwaldman"
----
+title: "Marilyn Waldman"
+image: headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/marilyn/
+    - text: Twitter
+      href: https://twitter.com/mdwaldman
+    - text: GitHub
+      href: https://github.com/marilynwaldman
+    - text: Email
+      href: mailto:mdwaldman22@gmail.com
+---      
+      
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
