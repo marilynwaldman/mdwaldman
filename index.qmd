@@ -1,8 +1,10 @@
 ---
 title: "Marilyn Waldman"
 about:
-  template: jolla
+  template: trestles
   image: headshot.jpg
+  image-shape: rounded
+  image-width: 10em
   links:
      - icon: twitter
        text: twitter
@@ -18,11 +20,11 @@ about:
 :::{#hero-heading}
 Marilyn Waldman is a software/data engineer currently researching methods for data visualization especially as related to geospatial data.  
 
-## Education
+### Education
 University of Colorado, Boulder, CO
 MS in Computer Science
 
-## Experience
+### Experience
 IXWater | Head Data Scientist | April 2020- present
 
 
