@@ -1,20 +1,20 @@
 ---
 title: "Marilyn Waldman"
 image: headshot.jpg
-about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 15em
+about:
+  template: jolla
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/marilyn/
-    - text: Twitter
-      href: https://twitter.com/mdwaldman
-    - text: GitHub
-      href: https://github.com/marilynwaldman
-    - text: Email
-      href: mailto:mdwaldman22@gmail.com
----      
+     - icon: twitter
+       text: twitter
+       href: https://twitter.com/mdwaldman
+     - icon: github
+       text: Github
+       href: https://github.com/marilynwaldman
+     - icon: linkedin
+       text: LinkedIn
+       href: https://www.linkedin.com/in/marilynwaldman/  
+  
+---
       
 
 
