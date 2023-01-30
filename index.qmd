@@ -16,16 +16,13 @@ about:
 ---
       
 :::{#hero-heading}
-
-Marilyn Waldman is a software and data engineer with over 40 years experience.
+Marilyn Waldman is a software/data engineer currently researching methods for data visualization especially as related to geospatial data.  
 
 ## Education
-
 University of Colorado, Boulder, CO
 MS in Computer Science
 
 ## Experience
-
 IXWater | Head Data Scientist | April 2020- present
 
 
