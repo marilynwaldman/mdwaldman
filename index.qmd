@@ -1,8 +1,8 @@
 ---
 title: "Marilyn Waldman"
-image: headshot.jpg
 about:
   template: jolla
+  image: headshot.jpg
   links:
      - icon: twitter
        text: twitter
@@ -13,7 +13,6 @@ about:
      - icon: linkedin
        text: LinkedIn
        href: https://www.linkedin.com/in/marilynwaldman/  
-  
 ---
       
 
